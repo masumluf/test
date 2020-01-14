@@ -128,10 +128,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Middleware" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\localhost\auth\app\Http\Middleware" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\localhost\auth\resources\views\student" />
     </key>
@@ -166,7 +170,7 @@
       <updated>1578835636988</updated>
       <workItem from="1578835643136" duration="1730000" />
       <workItem from="1578938454847" duration="4696000" />
-      <workItem from="1578991336472" duration="2532000" />
+      <workItem from="1578991336472" duration="4483000" />
     </task>
     <servers />
   </component>
@@ -178,6 +182,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="121" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578938601992" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1578995759327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578995759327" />
+    <state x="517" y="295" key="NewPhpFileDialog" timestamp="1578996198324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1578996198324" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1578995762175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578995762175" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1578992465765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
